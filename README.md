@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abel Tesfaw</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia Persuing Industrial Chemistry</h3>
+<h3 align="center">A passionate frontend developer from currently Studying at Addis Ababa Science And Technology University Lets Connect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelsileshie&label=Profile%20views&color=0e75b6&style=flat" alt="abelsileshie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abelsileshie" alt="abelsileshie" /></a> </p>
 
-- 💬 Ask me about **react HTML Javascript**
+- 🔭 I’m currently working on [Movie-Rec](https://gdsc-group5.vercel.app/)
+
+- 🌱 I’m currently learning **Advanced React Redux NextJS**
+
+- 👯 I’m looking to collaborate on [Academix](https://github.com/orgs/Acaddemixx/repositories)
 
 - 📫 How to reach me **sileshieabel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abel-sileshie-12282719a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abel-sileshie" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abel-sileshie-12282719a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abel-sileshie" height="30" width="40" /></a>
 <a href="https://instagram.com/abell_tesfaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abell_tesfaw" height="30" width="40" /></a>
 </p>
 
