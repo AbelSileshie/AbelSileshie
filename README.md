@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simplilearn.com%2Fmern-vs-mean-stack-article&psig=AOvVaw2dOU2aO99PNDwtN4JmODP6&ust=1715298961249000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLis9Nyg_4UDFQAAAAAdAAAAABAZ)]
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQGpo-ddaS7eDA/profile-displaybackgroundimage-shrink_350_1400/0/1715213568877?e=1720656000&v=beta&t=EIUrsJpZr1KInVBeA1QBgKkozWslPJ1PmoG-0DTf7dI)
+
 
 <h1 align="center">Hi 👋, I'm Abel Tesfaw</h1>
 <h3 align="center">A passionate frontend developer currently Studying at Addis Ababa Science And Technology University</h3>
