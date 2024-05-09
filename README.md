@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/AbelSileshie/AbelSileshie/blob/main/photo_2024-05-09_03-11-53.jpg)]([https://rishavchanda.io](https://github.com/AbelSileshie/AbelSileshie/blob/main/photo_2024-05-09_03-11-53.jpg))
+![MasterHead](https://github.com/AbelSileshie/AbelSileshie/blob/main/photo_2024-05-09_03-11-53.jpg)(https://github.com/AbelSileshie/AbelSileshie/blob/main/photo_2024-05-09_03-11-53.jpg))
 
 
 
