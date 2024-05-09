@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQGpo-ddaS7eDA/profile-displaybackgroundimage-shrink_350_1400/0/1715213568877?e=1720656000&v=beta&t=EIUrsJpZr1KInVBeA1QBgKkozWslPJ1PmoG-0DTf7dI)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fopenwebinars.net%2Fblog%2Fmern-stack-que-es-y-que-ventajas-ofrece%2F&psig=AOvVaw2dOU2aO99PNDwtN4JmODP6&ust=1715298961249000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCKuJ2i_4UDFQAAAAAdAAAAABAE)
 
 
 <h1 align="center">Hi 👋, I'm Abel Tesfaw</h1>
