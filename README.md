@@ -1,4 +1,5 @@
-![MasterHead]([https://github.com/AbelSileshie/AbelSileshie/blob/main/gihubBanner.png](https://github.com/AbelSileshie/AbelSileshie/blob/main/gihubBanner.png))
+![MasterHead](https://github.com/AbelSileshie/AbelSileshie/blob/main/gihubBanner.png?raw=true)
+
 
 
 
