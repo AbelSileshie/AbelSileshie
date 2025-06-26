@@ -113,8 +113,5 @@
 ### 🧠 Problem Solving Stats
 <p>
   <img src="https://leetcard.jacoblin.cool/abelsileshie?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats"/>
-   <a href="https://www.hackerrank.com/abelsileshie" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
-  </a>
 </p>
 
