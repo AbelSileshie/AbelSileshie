@@ -19,7 +19,13 @@
 
 ---
 
-### 🌍 Connect with Me
+### 🏆 GitHub Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=abelsileshie&theme=onedark" alt="GitHub Trophies" />
+</p>
+### 
+
+🌍 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/abelsileshie/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
@@ -113,11 +119,3 @@
   <img src="https://github-readme-hackerrank-stats.vercel.app/api?username=abelsileshie&theme=dark" alt="HackerRank Stats" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=abelsileshie&theme=onedark" alt="GitHub Trophies" />
-</p>
-
----
