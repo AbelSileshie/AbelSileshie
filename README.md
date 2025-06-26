@@ -2,7 +2,7 @@
 <img src="https://github.com/AbelSileshie/AbelSileshie/blob/main/gihubBanner.png?raw=true" alt="MasterHead" style="width:100%; height:auto;" />
 
 <h1 align="center">Hey there 👋, I'm Abel Tesfaw</h1>
-<h3 align="center">🚀 A passionate Frontend Developer studying at Addis Ababa Science and Technology University</h3>
+<h3 align="center">🚀 A passionate Fullstack Developer And Data Science Student studying at Addis Ababa Science and Technology University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abelsileshie&label=Profile%20views&color=0e75b6&style=flat" alt="abelsileshie" />
@@ -22,8 +22,9 @@
 ### 🏆 GitHub Trophies
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=abelsileshie&theme=onedark" alt="GitHub Trophies" />
- ![Snake animation](https://github.com/Abelsileshie/Abelsileshie/blob/output/dist/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Abelsileshie/Abelsileshie/output/snake.svg" alt="Snake animation" />
 </p>
+
 ### 
 
 🌍 Connect with Me
