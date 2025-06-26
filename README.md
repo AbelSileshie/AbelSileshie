@@ -22,6 +22,7 @@
 ### 🏆 GitHub Trophies
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=abelsileshie&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/Abelsileshie/Abelsileshie/output/snake.svg" alt="Snake animation" />
 </p>
 ### 
 
