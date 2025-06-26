@@ -12,8 +12,8 @@
 
 ### 💡 About Me
 - 🎓 Full-stack Developer & Data Science Student
-- 🧠 Learning Advanced React, Supabase, PostgreSQL, Docker & ML frameworks
-- 🛠️ Currently building: A scalable CV maker app using React, Tailwind & Supabase
+- 🧠 Learning Advanced React, Advanced Backend, Docker & ML frameworks
+- 🛠️ Currently building: An Airbnb clone full stack
 - 📈 Love solving real-world problems through clean and maintainable code
 - 📫 How to reach me: **sileshieabel@gmail.com**
 
@@ -113,9 +113,8 @@
 ### 🧠 Problem Solving Stats
 <p>
   <img src="https://leetcard.jacoblin.cool/abelsileshie?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats"/>
-</p>
-
-<p>
-  <img src="https://github-readme-hackerrank-stats.vercel.app/api?username=abelsileshie&theme=dark" alt="HackerRank Stats" />
+   <a href="https://www.hackerrank.com/abelsileshie" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
+  </a>
 </p>
 
