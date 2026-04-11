@@ -1,97 +1,126 @@
 <div align="center">
-  <!-- Dynamic Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Abel%20Tesfaw&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abel+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Data+Science+Student+%F0%9F%93%8A;Automation+Architect+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4e4eff&height=160&section=header&text=Abel%20Tesfaw&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Data%20Science%20Student&descAlignY=58&descSize=16&descColor=aaaaee" width="100%" />
 
-  <p align="center">
-    <img src="https://github.com/AbelSileshie/AbelSileshie/blob/main/gihubBanner.png?raw=true" alt="Abel Tesfaw Banner" width="100%" />
-  </p>
-
-  <!-- Interactive Social Badges -->
-  <p>
-    <a href="https://www.linkedin.com/in/abelsileshie/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://abelsileshie.software" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:sileshieabel@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://t.me/abeltesfaw" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-  </p>
-
-  <!-- Profile Views with specific style -->
-  <img src="https://komarev.com/ghpvc/?username=abelsileshie&label=Profile%20Visitors&color=2563EB&style=flat-square" alt="Profile Views" />
 </div>
 
 <br />
 
-## 🚀 About Me
-
-I am a **Full-Stack Developer** and **Data Science Student** at Addis Ababa Science and Technology University. I focus on building high-performance systems and intelligent automation.
-
-- ⚙️ **Engineering Focus:** Building scalable architectures and data-driven applications.
-- 🤖 **Automation:** Architected a complex **n8n workflow** for YouTube viral content detection & AI script generation (reducing research time by 80%).
-- 🏗️ **Scalable Web:** Developed a high-concurrency **Airbnb clone** with 99.9% uptime reliability.
-- 🌱 **Learning:** Currently diving deep into **System Design** and **MLOps**.
-
----
-
-## 💻 Tech Stack & Tooling
-
 <div align="center">
-  <!-- Using SkillIcons for a high-quality, uniform aesthetic -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,django,postgres,mongodb,graphql,supabase,docker,aws,fastapi,tensorflow,pytorch,linux,git,jest&perline=10" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=flat-square&logo=linkedin&logoColor=4e4eff)](https://www.linkedin.com/in/abelsileshie/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a1a?style=flat-square&logo=vercel&logoColor=4e4eff)](https://abelsileshie.software)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0a0a1a?style=flat-square&logo=gmail&logoColor=4e4eff)](mailto:sileshieabel@gmail.com)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-0a0a1a?style=flat-square&logo=telegram&logoColor=4e4eff)](https://t.me/abeltesfaw)
+
 </div>
 
 ---
 
-## 📊 Analytics & Performance
+## About
+
+I build full-stack web systems with a focus on performance and clean architecture. Currently studying Data Science at Addis Ababa Science and Technology University, connecting software engineering fundamentals with data-driven thinking.
+
+I'm deliberate about what I pick up — I'd rather go deep than spread thin.
+
+**Currently studying:** System Design — distributed architecture, scalability patterns, and trade-offs.  
+**Also exploring:** MLOps — bridging my data science coursework with production deployment practices.
+
+---
+
+## Tech Stack
+
+> **Legend:** `■ Proficient` &nbsp;|&nbsp; `□ Actively learning`
+
+### Languages
+![JavaScript](https://img.shields.io/badge/■%20JavaScript-0f0f1a?style=flat-square&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/■%20TypeScript-0f0f1a?style=flat-square&logo=typescript&logoColor=3178c6)
+![Python](https://img.shields.io/badge/■%20Python-0f0f1a?style=flat-square&logo=python&logoColor=3776ab)
+
+### Frontend
+![React](https://img.shields.io/badge/■%20React-0f0f1a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/■%20Next.js-0f0f1a?style=flat-square&logo=next.js&logoColor=ffffff)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/■%20Node.js-0f0f1a?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/■%20Express-0f0f1a?style=flat-square&logo=express&logoColor=ffffff)
+![Django](https://img.shields.io/badge/■%20Django-0f0f1a?style=flat-square&logo=django&logoColor=092e20)
+![FastAPI](https://img.shields.io/badge/■%20FastAPI-0f0f1a?style=flat-square&logo=fastapi&logoColor=009688)
+![GraphQL](https://img.shields.io/badge/■%20GraphQL-0f0f1a?style=flat-square&logo=graphql&logoColor=e10098)
+
+### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/■%20PostgreSQL-0f0f1a?style=flat-square&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/■%20MongoDB-0f0f1a?style=flat-square&logo=mongodb&logoColor=47a248)
+![Supabase](https://img.shields.io/badge/■%20Supabase-0f0f1a?style=flat-square&logo=supabase&logoColor=3ecf8e)
+![Docker](https://img.shields.io/badge/■%20Docker-0f0f1a?style=flat-square&logo=docker&logoColor=2496ed)
+![AWS](https://img.shields.io/badge/■%20AWS-0f0f1a?style=flat-square&logo=amazon-aws&logoColor=ff9900)
+![Linux](https://img.shields.io/badge/■%20Linux-0f0f1a?style=flat-square&logo=linux&logoColor=fcc624)
+![Git](https://img.shields.io/badge/■%20Git-0f0f1a?style=flat-square&logo=git&logoColor=f05032)
+
+### Currently Building Fluency
+![TensorFlow](https://img.shields.io/badge/□%20TensorFlow-0f0f1a?style=flat-square&logo=tensorflow&logoColor=555566)
+![PyTorch](https://img.shields.io/badge/□%20PyTorch-0f0f1a?style=flat-square&logo=pytorch&logoColor=555566)
+![MLOps](https://img.shields.io/badge/□%20MLOps%20Pipelines-0f0f1a?style=flat-square&logoColor=555566)
+![System Design](https://img.shields.io/badge/□%20System%20Design%20Patterns-0f0f1a?style=flat-square&logoColor=555566)
+
+---
+
+## Selected Work
+
+### YouTube Trend Detection Workflow
+Automated content research pipeline using n8n — detects viral patterns, pulls transcripts, and drafts structured scripts. Replaced a manual process that was consuming hours of prep time each week.
+
+`n8n` `automation` `Python` `workflow design` → **80% reduction in research time**
+
+---
+
+### Airbnb Clone — High Concurrency
+Full-stack property rental platform built with a reliability-first approach. Handles concurrent booking requests, real-time availability, and session management under load.
+
+`Next.js` `Node.js` `PostgreSQL` `Docker` `AWS` → **99.9% uptime reliability**
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <!-- Modern Tokyonight Theme Stats -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=abelsileshie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelsileshie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br />
+<img src="https://github-readme-stats.vercel.app/api?username=abelsileshie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=4e4eff&icon_color=4e4eff&count_private=true" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelsileshie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=4e4eff" height="160" />
 
-  <!-- Activity & Streak Visuals -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelsileshie&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  
-  <br />
-  <br />
+<br /><br />
 
-  <!-- Animated Snake Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/AbelSileshie/AbelSileshie/output/snake.svg" alt="Snake Animation" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abelsileshie&theme=tokyonight&hide_border=true&background=0a0a0f&ring=4e4eff&fire=4e4eff&currStreakLabel=4e4eff" />
 
-  <br />
+<br /><br />
 
-  <!-- Problem Solving Metric -->
-  <img src="https://leetcard.jacoblin.cool/abelsileshie?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats"/>
+<img src="https://raw.githubusercontent.com/AbelSileshie/AbelSileshie/output/snake.svg" width="100%" />
+
+</div>
+
+---
+
+## LeetCode
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/abelsileshie?theme=dark&font=Space+Mono&ext=activity" />
 </div>
 
 ---
 
 <div align="center">
-  <!-- Dynamic Waving Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
-  <br />
-  <i>"Software is a tool for the mind, and also a canvas for the soul."</i>
-  <br />
-  <b>Let's connect and build something extraordinary.</b>
+
+*"I'd rather understand one system deeply than skim ten."*
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=4e4eff)](https://linkedin.com/in/abelsileshie)
+[![Portfolio](https://img.shields.io/badge/portfolio-0a0a1a?style=for-the-badge&logo=vercel&logoColor=4e4eff)](https://abelsileshie.software)
+[![Email](https://img.shields.io/badge/email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=4e4eff)](mailto:sileshieabel@gmail.com)
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4e4eff&height=100&section=footer" width="100%" />
+
 </div>
