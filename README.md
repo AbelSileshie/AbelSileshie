@@ -1,119 +1,98 @@
-<!-- Banner -->
-<img src="https://github.com/AbelSileshie/AbelSileshie/blob/main/gihubBanner.png?raw=true" alt="MasterHead" style="width:100%; height:auto;" />
+<div align="center">
+  <img src="https://github.com/AbelSileshie/AbelSileshie/blob/main/gihubBanner.png?raw=true" alt="Abel Tesfaw - Full Stack Developer" width="100%" />
 
-<h1 align="center">Hey there 👋, I'm Abel Tesfaw</h1>
-<h3 align="center">🚀 A passionate Fullstack Developer And Data Science Student studying at Addis Ababa Science and Technology University</h3>
+  <h1>Hi there, I'm Abel Tesfaw 👋</h1>
+  <p><strong>Software Engineer | Full-Stack Developer | Data Science Enthusiast</strong></p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/abelsileshie/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sileshieabel@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://t.me/abeltesfaw" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abelsileshie&label=Profile%20views&color=0e75b6&style=flat" alt="abelsileshie" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=abelsileshie&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<br />
+
+## 👨‍💻 About Me
+
+I am a Full-Stack Developer and Data Science student at Addis Ababa Science and Technology University. I specialize in building scalable, responsive web applications and integrating data-driven solutions. I am passionate about writing clean, maintainable code and building architectures that solve real-world problems.
+
+- 🛠️ **Currently Building:** A high-performance scalable Airbnb clone using modern web technologies.
+- 🌱 **Currently Learning:** Advanced System Design, Docker Containerization, and expanding my expertise in Machine Learning frameworks.
+- 👯 **Looking to Collaborate on:** Open-source projects, innovative web applications, and data science research.
+- 💬 **Ask Me About:** React, Node.js, Python, and building scalable full-stack architectures.
 
 ---
 
-### 💡 About Me
-- 🎓 Full-stack Developer & Data Science Student
-- 🧠 Learning Advanced React, Advanced Backend, Docker & ML frameworks
-- 🛠️ Currently building: An Airbnb clone full stack
-- 📈 Love solving real-world problems through clean and maintainable code
-- 📫 How to reach me: **sileshieabel@gmail.com**
+## 🚀 Tech Stack & Tools
 
----
-
-### 🏆 GitHub Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=abelsileshie&theme=onedark" alt="GitHub Trophies" />
-  <img src="https://raw.githubusercontent.com/Abelsileshie/Abelsileshie/output/snake.svg" alt="Snake animation" />
-</p>
-
-### 
-
-🌍 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/abelsileshie/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&title=Languages" alt="Languages" />
   </a>
-  <a href="mailto:sileshieabel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  <br />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,bootstrap,materialui&title=Frontend" alt="Frontend" />
   </a>
-  <a href="https://www.instagram.com/abell_tesfaw/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  <br />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mysql,sqlite,mongodb,graphql,supabase&title=Backend+%26+Database" alt="Backend and Database" />
   </a>
-  <a href="https://t.me/abeltesfaw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
+  <br />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,bash,linux,jest,webpack,babel,aws&title=DevOps+%26+Tools" alt="DevOps and Tools" />
   </a>
-</p>
+  <br />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch,anaconda&title=Data+Science+%26+Machine+Learning" alt="Data Science" />
+  </a>
+</div>
 
 ---
 
-### 💻 Tech Stack
-<p align="left">
-  <strong>Languages:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+## 📈 GitHub & Problem Solving Stats
 
-  <br/><br/>
-  <strong>Frontend:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" />
-
-  <br/><br/>
-  <strong>Backend & DB:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" />
-
-  <br/><br/>
-  <strong>Tools & DevOps:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" />
-
-  <br/><br/>
-  <strong>Currently Learning:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abelsileshie&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abelsileshie&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abelsileshie" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧠 Problem Solving Stats
-<p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=abelsileshie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelsileshie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelsileshie&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br />
+  <br />
   <img src="https://leetcard.jacoblin.cool/abelsileshie?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats"/>
-</p>
+</div>
 
+---
+
+## 💼 Featured Projects
+*(Make sure to pin your best repositories to your profile to highlight your work!)*
+
+- **[Airbnb Clone (Full-Stack)](#)** - A scalable property rental platform built with Next.js, Node.js, and PostgreSQL. Features robust authentication, booking logic, and modern UI.
+- **[Project Two](#)** - Description of another significant project showcasing your data science or backend skills.
+- **[Project Three](#)** - Description highlighting an open-source contribution or a creative tool you built.
+
+<br />
+<div align="center">
+  <i>Let's build something amazing together. Feel free to reach out!</i>
+</div>
