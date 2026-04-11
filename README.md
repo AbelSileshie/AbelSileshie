@@ -1,12 +1,23 @@
 <div align="center">
-  <img src="https://github.com/AbelSileshie/AbelSileshie/blob/main/gihubBanner.png?raw=true" alt="Abel Tesfaw - Full Stack Developer" width="100%" />
+  <!-- Dynamic Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Abel%20Tesfaw&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h1>Hi there, I'm Abel Tesfaw 👋</h1>
-  <p><strong>Software Engineer | Full-Stack Developer | Data Science Enthusiast</strong></p>
-  
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abel+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Data+Science+Student+%F0%9F%93%8A;Automation+Architect+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <img src="https://github.com/AbelSileshie/AbelSileshie/blob/main/gihubBanner.png?raw=true" alt="Abel Tesfaw Banner" width="100%" />
+  </p>
+
+  <!-- Interactive Social Badges -->
   <p>
     <a href="https://www.linkedin.com/in/abelsileshie/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://abelsileshie.software" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:sileshieabel@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -16,83 +27,71 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=abelsileshie&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- Profile Views with specific style -->
+  <img src="https://komarev.com/ghpvc/?username=abelsileshie&label=Profile%20Visitors&color=2563EB&style=flat-square" alt="Profile Views" />
 </div>
 
 <br />
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a Full-Stack Developer and Data Science student at Addis Ababa Science and Technology University. I specialize in building scalable, responsive web applications and integrating data-driven solutions. I am passionate about writing clean, maintainable code and building architectures that solve real-world problems.
+I am a **Full-Stack Developer** and **Data Science Student** at Addis Ababa Science and Technology University. I focus on building high-performance systems and intelligent automation.
 
-- 🛠️ **Currently Building:** A high-performance scalable Airbnb clone using modern web technologies.
-- 🌱 **Currently Learning:** Advanced System Design, Docker Containerization, and expanding my expertise in Machine Learning frameworks.
-- 👯 **Looking to Collaborate on:** Open-source projects, innovative web applications, and data science research.
-- 💬 **Ask Me About:** React, Node.js, Python, and building scalable full-stack architectures.
+- ⚙️ **Engineering Focus:** Building scalable architectures and data-driven applications.
+- 🤖 **Automation:** Architected a complex **n8n workflow** for YouTube viral content detection & AI script generation (reducing research time by 80%).
+- 🏗️ **Scalable Web:** Developed a high-concurrency **Airbnb clone** with 99.9% uptime reliability.
+- 🌱 **Learning:** Currently diving deep into **System Design** and **MLOps**.
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 💻 Tech Stack & Tooling
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&title=Languages" alt="Languages" />
-  </a>
-  <br />
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,bootstrap,materialui&title=Frontend" alt="Frontend" />
-  </a>
-  <br />
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mysql,sqlite,mongodb,graphql,supabase&title=Backend+%26+Database" alt="Backend and Database" />
-  </a>
-  <br />
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,bash,linux,jest,webpack,babel,aws&title=DevOps+%26+Tools" alt="DevOps and Tools" />
-  </a>
-  <br />
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch,anaconda&title=Data+Science+%26+Machine+Learning" alt="Data Science" />
-  </a>
+  <!-- Using SkillIcons for a high-quality, uniform aesthetic -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,django,postgres,mongodb,graphql,supabase,docker,aws,fastapi,tensorflow,pytorch,linux,git,jest&perline=10" />
 </div>
 
 ---
 
-## 📈 GitHub & Problem Solving Stats
+## 📊 Analytics & Performance
 
 <div align="center">
-  <table>
+  <!-- Modern Tokyonight Theme Stats -->
+  <table border="0">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=abelsileshie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=abelsileshie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
       </td>
-      <td align="center" width="50%">
+      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelsileshie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
       </td>
     </tr>
   </table>
+
+  <br />
+
+  <!-- Activity & Streak Visuals -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelsileshie&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelsileshie&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br />
+
+  <!-- Animated Snake Contribution Graph -->
+  <img src="https://raw.githubusercontent.com/AbelSileshie/AbelSileshie/output/snake.svg" alt="Snake Animation" width="100%" />
+
   <br />
+
+  <!-- Problem Solving Metric -->
   <img src="https://leetcard.jacoblin.cool/abelsileshie?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats"/>
 </div>
 
 ---
 
-## 💼 Featured Projects
-*(Make sure to pin your best repositories to your profile to highlight your work!)*
-
-- **[Airbnb Clone (Full-Stack)](#)** - A scalable property rental platform built with Next.js, Node.js, and PostgreSQL. Features robust authentication, booking logic, and modern UI.
-- **[Project Two](#)** - Description of another significant project showcasing your data science or backend skills.
-- **[Project Three](#)** - Description highlighting an open-source contribution or a creative tool you built.
-
-<br />
 <div align="center">
-  <i>Let's build something amazing together. Feel free to reach out!</i>
+  <!-- Dynamic Waving Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <br />
+  <i>"Software is a tool for the mind, and also a canvas for the soul."</i>
+  <br />
+  <b>Let's connect and build something extraordinary.</b>
 </div>
